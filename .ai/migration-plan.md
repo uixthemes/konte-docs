@@ -106,7 +106,7 @@ done
 
 ```yaml
 ---
-title: Introduction
+title: Overview
 ---
 ```
 
@@ -186,7 +186,7 @@ export default defineConfig({
         {
           label: 'Getting Started',
           items: [
-            { label: 'Introduction', link: '/getting-started/introduction/' },
+            { label: 'Overview', link: '/getting-started/overview/' },
             { label: 'WordPress Information', link: '/getting-started/wordpress-information/' },
             { label: 'Theme Requirements', link: '/getting-started/requirements/' },
             { label: 'File Included', link: '/getting-started/file-included/' },
