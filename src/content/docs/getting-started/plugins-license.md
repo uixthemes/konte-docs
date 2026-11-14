@@ -3,7 +3,7 @@ title: 'Plugins Licenses'
 description: 'There are two premium plugins are bundled with Konte and do not require additional licensing in order to use with Konte.'
 sidebar:
   label: 'Plugins License'
-  order: 6
+  order: 7
 ---
 
 There are two premium plugins are bundled with Konte and **do not require additional licensing** in order to use with Konte. They are **WPBakery Page Builder** and **Revolution Slider** plugins. We purchased them from codecanyone.net and included them in the theme package. We are not allowed to include the license key for each of them. If there is any update, we are accountable for updating the theme with the newest version of plugins.

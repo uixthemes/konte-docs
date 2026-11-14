@@ -6,7 +6,7 @@ sidebar:
   order: 2
 ---
 
-Even in the [Installation](../../installation/import-demo/) section, we showed you how to import the demo content with one click. But when you select a demo to import, it will import the slider of selected demo only. If you want to use the slider from another one, you need to import its' sliders manually.
+Even in the [Installation](../../getting-started/installation/#step-6-import-demo) section, we showed you how to import the demo content with one click. But when you select a demo to import, it will import the slider of selected demo only. If you want to use the slider from another one, you need to import its' sliders manually.
 
 ## Sliders
 

@@ -18,8 +18,7 @@ Please check the following pages before installing the theme:
 
 ## How this documentation is organized
 
-- **Getting Started** - theme requirements, included files, licenses, and support information.
-- **Installation** - a step-by-step guide from downloading the theme to importing the demo content.
+- **Getting Started** - the installation guide, theme requirements, included files, licenses, and support information.
 - **Theme Options** - all settings in the WordPress Customizer, from colors and typography to shop and blog layouts.
 - **Elementor** and **WPBakery Page Builder** - build pages with the page builders supported by Konte.
 - **Header**, **Pages**, **Shop**, **Portfolio**, and **Footer** - configure each part of your site.
@@ -29,13 +28,7 @@ Please check the following pages before installing the theme:
 
 ## Quick start
 
-If you are setting up Konte for the first time, follow these pages in order:
-
-1. [Download the theme files from ThemeForest](../installation/download-theme/)
-1. [Install the Konte theme](../installation/install-theme/)
-1. [Install the required plugins](../installation/install-plugins/)
-1. [Configure the image sizes](../installation/config-plugins/)
-1. [Import the demo content](../installation/import-demo/)
+If you are setting up Konte for the first time, follow the [Installation](./installation/) guide. It walks you through downloading the theme files, installing the theme and its required plugins, configuring the image sizes, and importing the demo content.
 
 After that, head to [Theme Options](../theme-options/customizer/) to adjust the look of your site, or to [Setup WooCommerce](../shop/setup-woocommerce/) to configure your shop.
 

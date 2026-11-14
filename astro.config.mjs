@@ -18,7 +18,6 @@ export default defineConfig({
       social: [{ icon: 'information', label: 'Get Support', href: 'https://uix.ticksy.com/' }],
       sidebar: [
         section('Getting Started', 'getting-started'),
-        section('Installation', 'installation'),
         section('Theme Options', 'theme-options'),
         section('Elementor', 'elementor'),
         section('WPBakery Page Builder', 'wpb-page-builder'),
