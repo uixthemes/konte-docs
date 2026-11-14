@@ -37,7 +37,7 @@ You select disable product sharing by selecting no social in the option **Produc
 
 ## Ajax Add To Cart
 
-![Product ajax add to cart](../../../assets/images/woocommerce--product-ajax-add.png#alignrightfull)
+![Product ajax add to cart](../../../assets/images/woocommerce--product-ajax-add.png)
 
 By default, WooCommerce only has an option to enable ajax add to cart for products on the shop page. But with Konte, you can enable ajax add to cart on single product page too. Just enable the optio n**Ajax Add To Cart** in **Customize > Shop > Product**.
 

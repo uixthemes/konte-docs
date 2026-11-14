@@ -5,13 +5,13 @@ sidebar:
   order: 14
 ---
 
-![Customize Portfolio](../../../assets/images/customize-portfolio.png#alignright)
+![Customize Portfolio](../../../assets/images/customize-portfolio.png)
 
 This section contains sections which have options for controlling the display of portfolio page and single project page.
 
 ## Portfolio Page
 
-![Customize Portfolio Archive](../../../assets/images/customize-portfolio--portfolio.png#alignright)
+![Customize Portfolio Archive](../../../assets/images/customize-portfolio--portfolio.png)
 
 This section contains options for the portfolio pages.
 
@@ -30,7 +30,7 @@ This section contains options for the portfolio pages.
 
 ## Project Page
 
-![Customize Portfolio Single](../../../assets/images/customize-portfolio--project.png#alignright)
+![Customize Portfolio Single](../../../assets/images/customize-portfolio--project.png)
 
 This section contains options for the single project page.
 

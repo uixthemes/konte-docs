@@ -5,7 +5,7 @@ sidebar:
   order: 13
 ---
 
-![Customize Shop](../../../assets/images/customize-shop.png#alignright)
+![Customize Shop](../../../assets/images/customize-shop.png)
 
 This panel contains sections which have options that help you control the display shop, product, cart and other related parts. We will have a separated tutorial for controling the WooCommerce plugin and related plugins bellow. This panel contains following sections:
 

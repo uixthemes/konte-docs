@@ -5,13 +5,13 @@ sidebar:
   order: 15
 ---
 
-![Customize Footer](../../../assets/images/customize-footer.png#alignright)
+![Customize Footer](../../../assets/images/customize-footer.png)
 
 This section contains options for controlling the site footer layout and content. You can set the footer layout, change the background, toggle footer sections, manage footer items, etc.
 
 ## Footer Layout
 
-![Customize Footer Layout](../../../assets/images/customize-footer--layout.png#alignright)
+![Customize Footer Layout](../../../assets/images/customize-footer--layout.png)
 
 This section contains options for controlling the site footer layout, toggle footer sections and sort these sections.
 
@@ -20,7 +20,7 @@ This section contains options for controlling the site footer layout, toggle foo
 
 ## Footer Background
 
-![Customize Footer Background](../../../assets/images/customize-footer--background.png#alignright)
+![Customize Footer Background](../../../assets/images/customize-footer--background.png)
 
 This section contains options for controlling the site footer background. You can also set different backgrounds for blog or shop page.
 
@@ -30,13 +30,13 @@ This section contains options for controlling the site footer background. You ca
 
 ## Footer Extra
 
-![Customize Footer Extra](../../../assets/images/customize-footer--extra.png#alignright)
+![Customize Footer Extra](../../../assets/images/customize-footer--extra.png)
 
 Footer Extra section was built to help you add additional information or components to the site footer. On our demo, we use it to display the subscribe form at the footer, on all pages. This section contains only one option to enter the custom content for it. It allows you to enter plain text, HTML code and shortcodes.
 
 ## Footer Widgets
 
-![Customize Footer Widget](../../../assets/images/customize-footer--widgets.png#alignright)
+![Customize Footer Widget](../../../assets/images/customize-footer--widgets.png)
 
 This Footer Widgets section allows you to display widgets at footer, in columns. It contains options that control the layout of these widgets.
 
@@ -45,7 +45,7 @@ This Footer Widgets section allows you to display widgets at footer, in columns.
 
 ## Footer Instagram
 
-![Customize Footer Layout](../../../assets/images/customize-footer--instagram.png#alignright)
+![Customize Footer Layout](../../../assets/images/customize-footer--instagram.png)
 
 This section contains options for controlling the display of Instagram feed on your site footer.
 

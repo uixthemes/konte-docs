@@ -5,7 +5,7 @@ sidebar:
   order: 11
 ---
 
-![Customize Blog](../../../assets/images/customize-blog.png#alignright)
+![Customize Blog](../../../assets/images/customize-blog.png)
 
 This section contains options for controling the display of blog and single post pages. You can also control featured content on the blog page with the blog header section.
 
@@ -13,7 +13,7 @@ This section contains options for controling the display of blog and single post
 
 ![Customize Blog](../../../assets/images/blog-header.png)
 
-![Customize Blog](../../../assets/images/customize-blog--header.png#alignright)
+![Customize Blog](../../../assets/images/customize-blog--header.png)
 
 Blog header is a the top section on the blog page. It contains the blog title, social icons, blog menu and the blog search form.
 

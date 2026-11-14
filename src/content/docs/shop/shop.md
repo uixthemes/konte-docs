@@ -20,7 +20,7 @@ You can change this layout in **Appearance > Customize > Shop > Product Catalog*
 
 ## Change Products Columns & Rows
 
-![WooCommerce settings for rows and columns](../../../assets/images/woocommerce--settings-rows-columns.png#alignright)
+![WooCommerce settings for rows and columns](../../../assets/images/woocommerce--settings-rows-columns.png)
 
 By default, WooCommerce supports to change how many products per row or how many rows per page. You can change it in **Appearance > Customize > WooCommerce > Product Catalog**.
 

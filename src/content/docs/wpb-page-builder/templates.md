@@ -6,7 +6,7 @@ sidebar:
   order: 3
 ---
 
-![Open WPB template library](../../../assets/images/wpb-templates--open.png#alignright)
+![Open WPB template library](../../../assets/images/wpb-templates--open.png)
 
 If you are going to use the WPBakery page builder and want to use a predefined layout of the theme, or you want to create multiple pages that have the same general design, one of the easiest ways is to use/create a "Template".
 

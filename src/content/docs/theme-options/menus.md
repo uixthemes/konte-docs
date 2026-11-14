@@ -5,7 +5,7 @@ sidebar:
   order: 7
 ---
 
-![Cusomize Menus](../../../assets/images/customize-menus.png#alignright)
+![Cusomize Menus](../../../assets/images/customize-menus.png)
 
 This is a default panel of WordPress. This panel is used for managing navigation menus for content you have already published on your site. You can create menus and add items for existing content such as pages, posts, categories, tags, formats, or custom links.
 

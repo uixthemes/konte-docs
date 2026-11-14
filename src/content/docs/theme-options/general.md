@@ -5,7 +5,7 @@ sidebar:
   order: 2
 ---
 
-![Customize General](../../../assets/images/customize-general.png#alignright)
+![Customize General](../../../assets/images/customize-general.png)
 
 This panel contains sections which have general options of the site.
 
@@ -17,7 +17,7 @@ This panel contains sections which have general options of the site.
 
 ## Site Identity
 
-![Cusomize General Site Identity](../../../assets/images/customize-general--site_identity.png#alignright)
+![Cusomize General Site Identity](../../../assets/images/customize-general--site_identity.png)
 
 This section contains genral options for your website like: site title, site description, favicon.
 
@@ -27,7 +27,7 @@ This section contains genral options for your website like: site title, site des
 
 ## Homepage Settings
 
-![Cusomize Homepage settings](../../../assets/images/customize-general--static_front_page.png#alignright)
+![Cusomize Homepage settings](../../../assets/images/customize-general--static_front_page.png)
 
 You site's home page can either contain your latest posts or display a static page or post. You can set it here or in **Settings > Reading**.
 
@@ -39,7 +39,7 @@ You site's home page can either contain your latest posts or display a static pa
 
 ## API Keys
 
-![Cusomize General - API keys](../../../assets/images/customize-general--api_keys.png#alignright)
+![Cusomize General - API keys](../../../assets/images/customize-general--api_keys.png)
 
 In order to display the Instagram feed and Google map, Konte requires you to provide 2 API keys of them.
 
@@ -55,7 +55,7 @@ At this time, our tool to generate the Access Token is temporary down, due to th
 
 ## Preloader
 
-![Cusomize General Preloader](../../../assets/images/customize-general--preloader.png#alignright)
+![Cusomize General Preloader](../../../assets/images/customize-general--preloader.png)
 
 From the version 1.2.0, Konte supports preloader. Preloader is a layer display over the site when it is loading. In this section, you will see following options.
 
@@ -65,7 +65,7 @@ From the version 1.2.0, Konte supports preloader. Preloader is a layer display o
 
 ## Popup
 
-![Cusomize General Popup](../../../assets/images/customize-general--popup.png#alignright)
+![Cusomize General Popup](../../../assets/images/customize-general--popup.png)
 
 This section contains options for the newsletter popup.
 

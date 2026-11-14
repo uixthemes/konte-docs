@@ -9,7 +9,7 @@ This panel contains sections which have options that helping you control your si
 
 ## Topbar
 
-![Customize Header Topbar](../../../assets/images/customize-header--topbar.png#alignright)
+![Customize Header Topbar](../../../assets/images/customize-header--topbar.png)
 
 This section contains options for controling the topbar, like turn it on/off, select topbar layout, set the content for it.
 
@@ -26,7 +26,7 @@ It requires to install [WooCommerce Currency Switcher](https://wordpress.org/plu
 
 ## Header Layout
 
-![Customize Header Layout](../../../assets/images/customize-header--layout.png#alignright)
+![Customize Header Layout](../../../assets/images/customize-header--layout.png)
 
 This section contains options to control the site header layout. You can chose to use one of pre-build header layout or select to build your own layout. That we say the site header of Konte is unlimited.
 
@@ -36,7 +36,7 @@ This section contains options to control the site header layout. You can chose t
 
 ## Header Background
 
-![Customize Header Layout](../../../assets/images/customize-header--background.png#alignright)
+![Customize Header Layout](../../../assets/images/customize-header--background.png)
 
 This section contains options to control header background. You can select select from Dark, Light or Custom background color. With the custom background color, you will be able to select the header text color.
 
@@ -48,7 +48,7 @@ On each individual page, you can override some setting about background color an
 
 ## Header Main & Bottom
 
-![Customize Header Header](../../../assets/images/customize-header--main.png#alignright)
+![Customize Header Header](../../../assets/images/customize-header--main.png)
 
 Konte splits header into 2 sections: Header main and Header bottom. This section contains options for controling how these header sections display. You can add elements, remove elements or order them.
 
@@ -63,7 +63,7 @@ Konte supports follow elements on the site header: Logo, Primary menu, Secondary
 
 ## Logo
 
-![Customize Header Logo](../../../assets/images/customize-header--logo.png#alignright)
+![Customize Header Logo](../../../assets/images/customize-header--logo.png)
 
 This section contains options for controling how your site logo. You can select either logo image or logo text and config them.
 
@@ -88,7 +88,7 @@ If you select Logo Type as **SVG**, you will see these options:
 
 ## Search
 
-![Customize Header Search](../../../assets/images/customize-header--search.png#alignright)
+![Customize Header Search](../../../assets/images/customize-header--search.png)
 
 This section contains options of the search icon on header. You can select icon style, what the search form looking for, and manage quick links.
 
@@ -99,7 +99,7 @@ This section contains options of the search icon on header. You can select icon 
 
 ## Cart
 
-![Customize Header Search](../../../assets/images/customize-header--cart.png#alignright)
+![Customize Header Search](../../../assets/images/customize-header--cart.png)
 
 This section contains options to control the cart icon on site header.
 
@@ -107,7 +107,7 @@ This section contains options to control the cart icon on site header.
 
 ## Account
 
-![Customize Header Search](../../../assets/images/customize-header--account.png#alignright)
+![Customize Header Search](../../../assets/images/customize-header--account.png)
 
 This section contains options to control the account icon on site header.
 
@@ -115,7 +115,7 @@ This section contains options to control the account icon on site header.
 
 ## Full-Screen Menu
 
-![Customize Header Search](../../../assets/images/customize-header--fullscreen_menu.png#alignright)
+![Customize Header Search](../../../assets/images/customize-header--fullscreen_menu.png)
 
 This section contains options to control the full screen menu. This screen will be open when you click on the hamburger menu icon.
 

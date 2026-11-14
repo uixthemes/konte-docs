@@ -40,7 +40,7 @@ The most important information of a size guide is the table of sizes for your pr
 
 If you wish to add more tables, click on the plus icon on top to add more tab. In the new tab, you can add a new table. To edit a tab name, just click the pen icon, then click the check icon to confirm your change.
 
-![Add size guide tabs](../../../assets/images/woocommerce--size-guide-add-tabs.png#alignrightfull)
+![Add size guide tabs](../../../assets/images/woocommerce--size-guide-add-tabs.png)
 
 - **1** - Add a new tab. In each tab, you will have a new table.
 - **2** - Edit the tab name.
@@ -50,7 +50,7 @@ If you wish to add more tables, click on the plus icon on top to add more tab. I
 
 #### Display a size for certain categories
 
-![Select categories for a size guide](../../../assets/images/woocommerce--size-guide-select-categories.png#alignrightfull)
+![Select categories for a size guide](../../../assets/images/woocommerce--size-guide-select-categories.png)
 
 By default, a new size guide will be hidden and doesn't display on any product. You can select to display it on products of all categories, or just on products of select categories.
 

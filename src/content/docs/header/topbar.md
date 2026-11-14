@@ -17,13 +17,13 @@ At this moment, topbar only support to select from 2 background colors: dark or 
 
 ## Change Topbar Height
 
-![Change topbar height](../../../assets/images/header--topbar-height.png#alignright)
+![Change topbar height](../../../assets/images/header--topbar-height.png)
 
 There is an option called **Height** in **Header > Topbar**. You can drag the slider to left or right to decrease/increase the topbar height. You can also use the left & right arrow on your keyboard to adjust the value of this option.
 
 ## Add Items to Topbar
 
-![Add new topbar items](../../../assets/images/header--topbar-add-new.png#alignright)
+![Add new topbar items](../../../assets/images/header--topbar-add-new.png)
 
 There are two sections of the topbar: **Left Items** section and **Right Items** section. You can see these two options for them in **Header > Topbar** panel. To add a new item to a section, you need:
 
@@ -40,7 +40,7 @@ In each topbar item, you will a **Remove** link. Just click this link to remove 
 
 ## Edit Topbar Menu
 
-![Topbar menu](../../../assets/images/header--topbar-menu.png#alignright)
+![Topbar menu](../../../assets/images/header--topbar-menu.png)
 
 - To have the topbar menu, please ensure you added the **Topbar Menu** element into the topbar.
 - Then navigate to **Customize > Menus > Mene Locations** and asign a menu for **Topbar Menu** location.
@@ -54,7 +54,7 @@ To have the currency and lanuage switchers on the topbar, you need to add an ele
 
 ## Add Custom Content to Topbar
 
-![Topbar menu](../../../assets/images/header--topbar-custom-content.png#alignright)
+![Topbar menu](../../../assets/images/header--topbar-custom-content.png)
 
 Beside normal elements, Konte allows adding custom content (text, HTML, shortcodes) on the topbar. You just need to add an element to the topbar and select element's type as **Custom Text**. Then at the bottom of the Topbar options panel, you will see a textarea field **Custome Text** to enter custom content for the topbar. You can add a simple text for an important notification, or add HTML code for a more complex element (with a link for example), or add shortcodes.
 

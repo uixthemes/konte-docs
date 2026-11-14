@@ -51,7 +51,7 @@ Screenshots live in `src/assets/images/` and are optimized by Astro at build tim
 ![Topbar menu](../../../assets/images/header--topbar-menu.png)
 ```
 
-Append `#alignright` (or `#alignrightfull`, `#alignleft`) to float a small screenshot beside the text on desktop.
+Images are centered in the content column (see `src/styles/custom.css`).
 
 ### Callouts
 

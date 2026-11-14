@@ -1,7 +1,6 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightImageZoom from 'starlight-image-zoom';
-import remarkImageAlign from './src/plugins/remark-image-align.mjs';
 
 const section = (label, directory) => ({ label, items: [{ autogenerate: { directory } }] });
 
@@ -9,9 +8,6 @@ export default defineConfig({
   site: 'https://docs.uix.store',
   base: '/konte',
   trailingSlash: 'always',
-  markdown: {
-    remarkPlugins: [remarkImageAlign],
-  },
   integrations: [
     starlight({
       title: 'Konte Docs',

@@ -5,7 +5,7 @@ sidebar:
   order: 5
 ---
 
-![Cusomize Typography](../../../assets/images/customize-typography.png#alignright)
+![Cusomize Typography](../../../assets/images/customize-typography.png)
 
 All typography options are located within their specific **Appearance > Customize > Typography** panel. You can select font family, font size, line height, color, etc.
 

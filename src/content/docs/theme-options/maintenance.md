@@ -6,7 +6,7 @@ sidebar:
   order: 3
 ---
 
-![Customize maintenance mode](../../../assets/images/customize-maintenance.png#alignright)
+![Customize maintenance mode](../../../assets/images/customize-maintenance.png)
 
 This section containt options turn your site into the maintenance mode. Its allows you to display a user-friendly notice to yor users instead of a broken site during website maintenance. When you are logged as an administrator, you can visit your website normally.
 

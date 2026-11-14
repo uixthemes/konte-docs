@@ -6,7 +6,7 @@ sidebar:
   order: 4
 ---
 
-![Cusomize Layout](../../../assets/images/customize-layout.png#alignright)
+![Cusomize Layout](../../../assets/images/customize-layout.png)
 
 The Site Layout section makes it easy for you to manage your site layout type - sidebar layouts. You can select either: no sidebar, sidebar left or sidebar right.
 

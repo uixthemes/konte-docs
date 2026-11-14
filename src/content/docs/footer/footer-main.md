@@ -9,7 +9,7 @@ Footer main is the main section of the footer. This section may contains the cop
 
 ## Add Items to Footer Main
 
-![Footer main builder](../../../assets/images/footer--main-builder.png#alignright)
+![Footer main builder](../../../assets/images/footer--main-builder.png)
 
 Like the header builder, you can add items to footer main in **Customize > Footer > Footer Main**. Footer main contains 3 columns. Simply click the button **Add Item** to add a new item to a footer column. After that, you can select what item you wish to add to the footer main from the dropdown menu.
 
@@ -43,7 +43,7 @@ In order to setup this menu, please go to **Appearance > Menus** and assign a me
 
 We use a normal menu for social icons on the right side of footer. It is pretty simple to create your own social menu icons there. You just need to create a new menu (or edit your current menu) and add link to your social pages. Remember to assign it to **Footer Social** menu location. This menu will detect the correct icon from the URL. For example, if the URL contains "twitter.com" it will display the Twitter icon.
 
-![Footer socials](../../../assets/images/footer--socials.png#alignright)
+![Footer socials](../../../assets/images/footer--socials.png)
 
 Currently, Konte supports following social icons in Footer Socials menu:
 

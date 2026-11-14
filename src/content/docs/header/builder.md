@@ -11,7 +11,7 @@ If you don't like one of pre-build header layouts, or sometimes you want to buil
 
 ## Activate The Header Builder
 
-![Header builder activation](../../../assets/images/header--builder.png#alignright)
+![Header builder activation](../../../assets/images/header--builder.png)
 
 By default, Konte uses a [pre-build header layout](../../header/layout/). If you want to activate the header builder, please navigate to Customize > Header > Header Layout and select option **Present** as **Build my own**.
 
@@ -34,7 +34,7 @@ You can add items to columns to build your header layout.
 
 ## Add Items to Header
 
-![Konte add header items](../../../assets/images/header--add-items.png#alignright)
+![Konte add header items](../../../assets/images/header--add-items.png)
 
 After the header builder is activated, you can navigate to the **Header Main** and **Header Bottom** sections to add items to the header. Simply click the button **Add Item** to add a new item to a header column. After that, you can select what item you want to add to the header from the dropdown menu.
 

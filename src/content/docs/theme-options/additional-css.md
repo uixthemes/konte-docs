@@ -5,7 +5,7 @@ sidebar:
   order: 9
 ---
 
-![Customize Additional CSS](../../../assets/images/customize-additional-css.png#alignright)
+![Customize Additional CSS](../../../assets/images/customize-additional-css.png)
 
 Sometimes you may find yourself needing to add Custom CSS in your WordPress site. Since WordPress 4.7, users can add custom CSS directly from WordPress admin area. This is super-easy and you would be able to see your changes with a live preview instantly.
 

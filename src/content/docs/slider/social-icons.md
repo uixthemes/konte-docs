@@ -8,7 +8,7 @@ sidebar:
 
 In some sliders, you will see the social icons inside them. They are a bit different with the [social menu](../../footer/footer-main/#footer-social-icons) of the theme.
 
-![Slide global layers](../../../assets/images/slider--global-layers.png#alignright)
+![Slide global layers](../../../assets/images/slider--global-layers.png)
 
 To edit these icons, you need to open the **Global Layers" slide. This is a default section of Revolution Slider. You will find the option to open it on top of your slides. It contains layers that will be displayed on top or below your Slides.
 
@@ -19,7 +19,7 @@ You can check this official documentation for more clarification about the Globa
 
 ## Edit the social icons <!-- {docsify-ignore} -->
 
-![Social icons layer inside the slider](../../../assets/images/slider--social-icon-layer.png#alignright)
+![Social icons layer inside the slider](../../../assets/images/slider--social-icon-layer.png)
 
 You will see some global layers, including the social icons layer. It is a text layer that contains HTML of these icons. You can edit the HTML of this layer to modify, add or remove the icons.
 
