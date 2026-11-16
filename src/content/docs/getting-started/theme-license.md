@@ -2,7 +2,7 @@
 title: 'Theme License'
 description: 'When purchasing Konte from ThemeForest, you have two licensing options. The Regular License, and the Extended License.'
 sidebar:
-  order: 6
+  order: 4
 ---
 
 When purchasing Konte from ThemeForest, you have two licensing options. The Regular License, and the Extended License. The billing, licensing terms and process is purely handled by Envato (the company who owns ThemeForest), and we have no control over these aspects. To learn more about what each License is for and which one to purchase, please visit this [License article](https://themeforest.net/licenses/standard?license=regular).

@@ -8,6 +8,12 @@ export default defineConfig({
   site: 'https://docs.uix.store',
   base: '/konte',
   trailingSlash: 'always',
+  // Old "Getting Started" pages merged into "Before You Install".
+  redirects: {
+    '/getting-started/wordpress-information/': '/konte/getting-started/before-you-install/',
+    '/getting-started/requirements/': '/konte/getting-started/before-you-install/',
+    '/getting-started/file-included/': '/konte/getting-started/before-you-install/',
+  },
   integrations: [
     starlight({
       title: 'Konte Docs',

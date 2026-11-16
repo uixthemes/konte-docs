@@ -11,14 +11,11 @@ We would like to thank you for purchasing Konte! We are very pleased that you ha
 
 Konte can only be used with WordPress, and we assume that you already have WordPress installed and ready to go. If you do not, please follow this link to go to [wordpress.org](https://wordpress.org/) to download and install the latest version of WordPress.
 
-Please check the following pages before installing the theme:
-
-- [WordPress Information](./wordpress-information/) - useful links and resources for WordPress.
-- [Theme Requirements](./requirements/) - the minimum and recommended server configuration for Konte.
+Please check the [Before You Install](./before-you-install/) page before installing the theme. It covers useful WordPress resources, the minimum and recommended server configuration, and the files included in the theme package.
 
 ## How this documentation is organized
 
-- **Getting Started** - the installation guide, theme requirements, included files, licenses, and support information.
+- **Getting Started** - what to check before installing, the installation guide, licenses, and support information.
 - **Theme Options** - all settings in the WordPress Customizer, from colors and typography to shop and blog layouts.
 - **Elementor** and **WPBakery Page Builder** - build pages with the page builders supported by Konte.
 - **Header**, **Pages**, **Shop**, **Portfolio**, and **Footer** - configure each part of your site.

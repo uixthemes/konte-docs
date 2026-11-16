@@ -2,7 +2,7 @@
 title: 'Theme Support'
 description: 'All of our items come with 6 months of included support and free lifetime updates for your theme.'
 sidebar:
-  order: 8
+  order: 6
 ---
 
 All of our items come with 6 months of included support and free lifetime updates for your theme. Once the 6 months of included support is up, you have the opportunity to extend support coverage up to 6 or 12 months further. If you choose to not extend your support, you will still be able to submit bug reports via email or item comments and still have access to our online documentation.

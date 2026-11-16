@@ -2,7 +2,7 @@
 title: 'Installation'
 description: 'Step-by-step guide to installing Konte: download the theme files, install the theme and required plugins, configure image sizes, and import the demo content.'
 sidebar:
-  order: 5
+  order: 3
 ---
 
 Follow these steps to get Konte up and running: download the theme files from ThemeForest, install the theme, install the required plugins, configure the product image sizes, optionally enable portfolio support, and import the demo content.
