@@ -10,6 +10,8 @@ export default defineConfig({
   trailingSlash: 'always',
   // Old "Getting Started" pages merged into "Before You Install".
   redirects: {
+    '/getting-started/overview/': '/konte/getting-started/',
+    '/getting-started/installation/': '/konte/getting-started/install-theme/',
     '/getting-started/wordpress-information/': '/konte/getting-started/before-you-install/',
     '/getting-started/requirements/': '/konte/getting-started/before-you-install/',
     '/getting-started/file-included/': '/konte/getting-started/before-you-install/',

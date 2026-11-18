@@ -1,5 +1,5 @@
 ---
-title: 'Installation'
+title: 'Install theme'
 description: 'Step-by-step guide to installing Konte: download the theme files, install the theme and required plugins, configure image sizes, and import the demo content.'
 sidebar:
   order: 3

@@ -1,5 +1,5 @@
 ---
-title: 'Overview'
+title: 'Welcome'
 description: 'Welcome to the Konte documentation! Thank you for purchasing Konte - we are very pleased that you have chosen it for your website, and you will not be disappointed!'
 sidebar:
   order: 1
@@ -25,7 +25,7 @@ Please check the [Before You Install](./before-you-install/) page before install
 
 ## Quick start
 
-If you are setting up Konte for the first time, follow the [Installation](./installation/) guide. It walks you through downloading the theme files, installing the theme and its required plugins, configuring the image sizes, and importing the demo content.
+If you are setting up Konte for the first time, follow the [Install theme](./install-theme/) guide. It walks you through downloading the theme files, installing the theme and its required plugins, configuring the image sizes, and importing the demo content.
 
 After that, head to [Theme Options](../theme-options/customizer/) to adjust the look of your site, or to [Setup WooCommerce](../shop/setup-woocommerce/) to configure your shop.
 

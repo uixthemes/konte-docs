@@ -1,12 +1,12 @@
 ---
 title: 'Exported Slider {docsify-ignore-all}'
-description: 'Even in the Installation section, we showed you how to import the demo content with one click.'
+description: 'Even in the Install theme guide, we showed you how to import the demo content with one click.'
 sidebar:
   label: 'Exported Sliders'
   order: 2
 ---
 
-Even in the [Installation](../../getting-started/installation/#step-6-import-demo) section, we showed you how to import the demo content with one click. But when you select a demo to import, it will import the slider of selected demo only. If you want to use the slider from another one, you need to import its' sliders manually.
+Even in the [Install theme](../../getting-started/install-theme/#step-6-import-demo) guide, we showed you how to import the demo content with one click. But when you select a demo to import, it will import the slider of selected demo only. If you want to use the slider from another one, you need to import its' sliders manually.
 
 ## Sliders
 
